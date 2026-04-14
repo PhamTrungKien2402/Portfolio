@@ -1,7 +1,7 @@
 const contacts = [
-  { label: 'Email', value: 'kien@email.com', href: 'mailto:kien@email.com' },
-  { label: 'LinkedIn', value: 'linkedin.com/in/phamtrungkien', href: 'https://linkedin.com/in/phamtrungkien' },
-  { label: 'GitHub', value: 'github.com/phamtrungkien', href: 'https://github.com/phamtrungkien' },
+  { label: 'Email', value: 'kienphamfptu@email.com', href: 'mailto:kienphamfptu@email.com' },
+  { label: 'LinkedIn', value: 'linkedin.com/in/kien-pham-aa9196403', href: 'https://linkedin.com/in/kien-pham-aa9196403' },
+  { label: 'GitHub', value: 'github.com/PhamTrungKien2402', href: 'https://github.com/PhamTrungKien2402' },
 ]
 
 export default function Contact() {

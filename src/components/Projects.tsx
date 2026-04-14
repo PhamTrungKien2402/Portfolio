@@ -1,31 +1,14 @@
 const projects = [
   {
     number: '01',
-    title: 'Tên dự án 1',
+    title: 'Hệ thống bán kính mắt (Eyewear Management System)',
     description:
       'Mô tả ngắn về dự án này. Bạn đã làm gì, giải quyết vấn đề gì, học được gì từ dự án này.',
     tags: ['React', 'Tailwind CSS', 'REST API'],
-    github: 'https://github.com/your-username/project-1',
-    live: 'https://project-1.vercel.app',
+    github: 'https://github.com/Natsuto213/eyewear-management-frontend',
+    live: 'https://eyewear-management-frontend.vercel.app',
   },
-  {
-    number: '02',
-    title: 'Tên dự án 2',
-    description:
-      'Mô tả ngắn về dự án này. Bạn đã làm gì, giải quyết vấn đề gì, học được gì từ dự án này.',
-    tags: ['Next.js', 'TypeScript', 'Tailwind CSS'],
-    github: 'https://github.com/your-username/project-2',
-    live: 'https://project-2.vercel.app',
-  },
-  {
-    number: '03',
-    title: 'Tên dự án 3',
-    description:
-      'Mô tả ngắn về dự án này. Bạn đã làm gì, giải quyết vấn đề gì, học được gì từ dự án này.',
-    tags: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/your-username/project-3',
-    live: null,
-  },
+  
 ]
 
 export default function Projects() {
@@ -100,7 +83,7 @@ export default function Projects() {
         {/* GitHub CTA */}
         <div className="mt-12 border-t border-border pt-8">
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/Natsuto213/eyewear-management-frontend"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-muted hover:text-ink transition-colors inline-flex items-center gap-2"
