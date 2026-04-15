@@ -3,7 +3,7 @@ const projects = [
     number: '01',
     title: 'Hệ thống bán kính mắt (Eyewear Management System)',
     description:
-      'Mô tả ngắn về dự án này. Bạn đã làm gì, giải quyết vấn đề gì, học được gì từ dự án này.',
+      'Dự án môn SWP391 kì 5 hệ thống bán mắt kính online. Tôi đã tham gia vào thiết kế và phát triển, giải quyết vấn được vấn đề thời gian, giúp dễ dàng lựa chọn sản phẩm cho khách hàng.',
     tags: ['React', 'Tailwind CSS', 'REST API'],
     github: 'https://github.com/Natsuto213/eyewear-management-frontend',
     live: 'https://eyewear-management-frontend.vercel.app',

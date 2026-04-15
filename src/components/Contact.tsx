@@ -1,5 +1,5 @@
 const contacts = [
-  { label: 'Email', value: 'kienphamfptu@email.com', href: 'mailto:kienphamfptu@email.com' },
+  { label: 'Email', value: 'kienphamfptu@gmail.com', href: 'mailto:kienphamfptu@gmail.com' },
   { label: 'LinkedIn', value: 'linkedin.com/in/kien-pham-aa9196403', href: 'https://linkedin.com/in/kien-pham-aa9196403' },
   { label: 'GitHub', value: 'github.com/PhamTrungKien2402', href: 'https://github.com/PhamTrungKien2402' },
 ]
